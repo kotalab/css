@@ -4,5 +4,8 @@
   "main": "style.css",
   "repository": "https://github.com/kotalab/css.git",
   "author": "kotalab <info@kotalab.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "style.css"
+  ]
 }
